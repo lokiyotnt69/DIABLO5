@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR white] ****************** [/COLOR][COLOR yellow] JHG [/COLOR] [COLOR white] MASTER**************** [/COLOR]</title>
+<title>[COLOR white] ****************** [/COLOR][COLOR yellow]NO PIENSO [/COLOR] [COLOR white] DEJARLO**************** [/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -61,7 +61,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                            [B][COLOR red]*[/COLOR][COLOR blue]*[/COLOR][COLOR red] * [/COLOR]*[COLOR blue]*[/COLOR][COLOR red]* [/COLOR][/B]      </title>
+<title>                                            [B][COLOR red]*MI FAMILIA[/COLOR][COLOR blue]*MI VIDA[/COLOR][COLOR red] *GRACIAS X ESTAR AHI [/COLOR]*[COLOR blue]*GRAN [/COLOR][COLOR red]*APOYO [/COLOR][/B]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -90,8 +90,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow] ************************MUNDO DISNEY************************** [/COLOR]</title>
+<item>************FAMILIA--R  Y JHG  X VOSOTROS!!!*********** [/COLOR]</title>
 <link>http://</link>
 </item>
 
